@@ -4,6 +4,9 @@ body,p,ul,h1,h2,h3,h4,h5,h6,ol,dl,dd,form,input,ul,ol{
     list-style:none;
     font-family: "微软雅黑"
 }
+body{
+  overflow-x: auto;
+}
 img{border:none;}
 a{
 	text-decoration: none;
@@ -153,7 +156,6 @@ a{
 }
 .sk{
 	margin-top: 1px;
-  overflow-x: auto;
 }
 /*头部结束*/
 .ss{
